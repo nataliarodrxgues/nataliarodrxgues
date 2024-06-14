@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1 align="center">Hello, world!👋</h1>
+<h1 align="center">Hello, world! ♡ </h1>
 <p>"Everything you lose is a step you take."</p>
-<h3 align="center">♡ Data Science Student | Developer Full Stack | 28 yo. ♡ </h3>
+<h3 align="center"> Cybesecurity Intern | Data Science Student | Developer Full Stack | 28 yo. </h3>
 <br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=nataliarodrxgues&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliarodrxgues&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
